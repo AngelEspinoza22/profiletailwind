@@ -1,11 +1,12 @@
 # Para utilizar los componentes
 
- ###### Se necesitan instalar los frameworks utilizados:
+ ### Se necesitan instalar los frameworks utilizados:
 
 npm i -D
 
+-----------------------------------------------------------------------------------------------------------
 
-###### si no funciona, instalarlos individualmente:
+### si no funciona, instalarlos individualmente:
 
 npm install firebase
 
@@ -13,6 +14,7 @@ npm install @material-ui/core
 
 npm install @material-ui/icons
 
+-----------------------------------------------------------------------------------------------------------
 
 **Nota: Es necesario tener tailwind instalado**
 
@@ -26,4 +28,6 @@ link de HTML para iconos y tipografia:
     <link href="https://fonts.googleapis.com/css2?family=Satisfy&display=swap" rel="stylesheet">
 
 
-###### Todo el programa funciona desde el componente Profile.js
+-----------------------------------------------------------------------------------------------------------
+
+### Todo el programa funciona desde el componente Profile.js
