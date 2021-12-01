@@ -5,6 +5,8 @@ Se necesitan instalar los frameworks utilizados:
 npm i -D
 
 
+
+
 si no funciona, instalarlos individualmente:
 
 npm install firebase
@@ -12,6 +14,8 @@ npm install firebase
 npm install @material-ui/core
 
 npm install @material-ui/icons
+
+
 
 
 **Nota: Es necesario tener tailwind instalado**
