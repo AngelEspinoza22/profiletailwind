@@ -1,0 +1,33 @@
+
+.card-profile{
+    max-width:850px;
+    height: 420px;
+    align-items: center;
+}
+
+.profile-image{
+    margin: 20px;
+}
+
+.profile-image:hover{
+  cursor: pointer;
+}
+
+.title-pic{
+    font-size: 50px;
+    font-family: 'Satisfy', cursive;
+}
+
+.style-modal-pic{
+    display: block;
+    margin: 10px;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+
+.input-image-pic{
+    display: flex;
+    align-content: center;
+    text-align: center;
+}

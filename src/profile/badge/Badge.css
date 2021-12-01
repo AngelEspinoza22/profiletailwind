@@ -1,0 +1,25 @@
+
+.card-insignia{
+    max-width: 1300px;
+    min-width: 280px;
+    height: 250px;
+}
+
+.iconBadge{
+    margin: 10px;
+
+}
+
+.iconBadge:hover{
+  box-shadow: 0 0 5px #25b851;
+}
+
+.iconBadge:hover::before {
+  transform: scale(1.1);
+  box-shadow: 0 0 15px #25b851;
+}
+
+.title-badge{
+    font-size: 50px;
+    font-family: 'Satisfy', cursive;
+}
